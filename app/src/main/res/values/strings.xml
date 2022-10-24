@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ejercicio4Aula</string>
+    <string name="nombreUsuario">Introduce aquí tu nombre:</string>
+    <string name="botonAceptar">Enviar formulario</string>
+    <string name="apellidosUsuario">Introduce aquí tus apellidos:</string>
+    <string name="telefonoUsuario">¿Cuál es tu número de teléfono?</string>
+    <string name="dinosAlgo">¿Deseas comentarnos algo?</string>
+</resources>
